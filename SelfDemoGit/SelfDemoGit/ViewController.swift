@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         //last testing swap
         //AnkushTesting
         
-        // trunck testing for development
+        // sap trunck testing for development
         // Do any additional setup after loading the view, typically from a nib.
     }
 
